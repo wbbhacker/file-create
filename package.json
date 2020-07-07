@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "wbb",
+  "author": "wbbhacker",
   "license": "ISC",
   "dependencies": {
     "@babel/generator": "^7.10.4",
